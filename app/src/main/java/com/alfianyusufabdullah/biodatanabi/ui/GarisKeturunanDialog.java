@@ -25,6 +25,8 @@ import butterknife.ButterKnife;
  * @github @alfianyusufabdullah
  */
 
+//event hacktoberfest2018
+
 public class GarisKeturunanDialog extends BottomSheetDialogFragment {
 
     @BindView(R.id.toolbar)

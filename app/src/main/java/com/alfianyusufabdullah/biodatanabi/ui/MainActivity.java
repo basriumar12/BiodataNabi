@@ -32,7 +32,7 @@ import butterknife.BindView;
 import butterknife.BindViews;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
-
+//add comment for this event https://hacktoberfest.digitalocean.com/details
 public class MainActivity extends AppCompatActivity {
 
     @BindViews({R.id.textHeaderName, R.id.textHeaderAliasName})
